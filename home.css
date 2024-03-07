@@ -1,0 +1,40 @@
+body{
+    /* background-image: url("imgs/homebg.jpg"); */
+    background-image: linear-gradient(to right, #2b5a84,#ea661f);
+  
+}
+
+
+/* login from page */
+.loginHeading{
+    margin:5px;
+    color:rgb(6, 6, 6);
+}
+.fromContainer {
+    text-align: center;
+    font-family: "roboto";
+}
+.loginformNmae{
+    background-color:transparent;
+    border-radius:8px;
+    margin: 10px;;
+    border: solid rgb(116, 116, 116);
+    padding:7px;
+    width:40%    
+}
+.loginformPassword{
+    background-color:transparent;
+    border-radius:8px;
+    margin: 10px;;
+    border: solid rgb(116, 116, 116);
+    padding:7px;
+    width:40%    
+}
+.loginbutton{
+    border-radius:8px;
+    background-color:transparent;
+    border:solid rgb(195, 189, 189);
+    padding:8px;
+    width:15%;
+    font-family: "roboto";
+}
