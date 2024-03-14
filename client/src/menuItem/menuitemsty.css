@@ -1,0 +1,23 @@
+
+.orderbutton{
+    background-color: goldenrod;
+    width:25%;
+    height:35px;
+    border-radius:7px;
+    border-width:0px ;
+    color:white;
+    
+}
+.menuImg{
+    border-radius: 10px;
+   
+}
+.menuHeading{
+    font-family:roboto;
+}
+.menuBorder{
+    border-radius: 15px;;
+}
+.menuItemDiscription{
+    font-family:roboto;
+}
